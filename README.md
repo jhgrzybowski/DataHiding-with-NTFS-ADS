@@ -2,7 +2,7 @@
 
 #### So basically the idea is to use simple data hiding that is available in NTFS file system running on Windows. It is called Alternative Data Streams and can be accessed in the command line:
 
-```console
+```shell
 -- create empty file
 C:\Users\jhgrz\Documents> type nul > file.txt
 
